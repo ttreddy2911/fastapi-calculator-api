@@ -353,15 +353,13 @@ Add these repository secrets in GitHub:
 Replace this placeholder with your actual repository URL:
 
 ```text
-https://github.com/<your-username>/<your-repository-name>
+https://github.com/ttreddy2911/fastapi-calculator-api/
 ```
 
 ## Docker Hub Repository Link
 
-Replace this placeholder with your actual Docker Hub repository URL:
-
 ```text
-https://hub.docker.com/r/<your-dockerhub-username>/<your-image-name>
+https://hub.docker.com/r/tippireddy/calculator-api
 ```
 
 ## Suggested Submission Screenshots
@@ -373,15 +371,6 @@ Take and submit screenshots of:
 - application running in the browser
 - successful endpoint execution in `/docs`
 - terminal showing passing `pytest` results
-
-## Reflection Document
-
-Include a `reflection.md` file in the repository describing:
-
-- what you built
-- challenges you faced
-- what you learned
-- what you would improve next
 
 ## Troubleshooting
 
@@ -405,11 +394,3 @@ Make sure:
 ### Tests fail because tables already exist or old data exists
 
 Use the test database only for test runs.
-
-## Author Notes
-
-Before submitting, update this README with:
-
-- your actual GitHub repo link
-- your actual Docker Hub link
-- any project-specific setup differences from your machine
