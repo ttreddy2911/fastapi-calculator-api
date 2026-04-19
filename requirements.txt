@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+email-validator
+pwdlib[argon2]
+pytest
+httpx
